@@ -11,7 +11,7 @@ about: Bug reports about the Solidity Compiler.
 	- [Solidity chat](https://gitter.im/ethereum/solidity)
 	- [Stack Overflow](https://ethereum.stackexchange.com/)
 - Ensure the issue isn't already reported.
-- Should be reproducible with the latest ``solc`` version, however, this isn't a hard requirement.
+- The issue should be reproducible with the latest solidity version version, however, this isn't a hard requirement and being reproducible with an older version is sufficient.
 
 *Delete the above section and the instructions in the sections below before submitting*
 
@@ -21,11 +21,10 @@ Please shortly describe the bug you have found, and what you expect instead.
 
 ## Environment
 
-- Compiler version
-- Framework (i.e. Truffle)
-- EVM execution environment / backend / blockchain client
-- IDE (i.e. Remix)
-- Operating system
+- Compiler version;
+- Framework/IDE (e.g. Truffle or Remix):
+- EVM execution environment / backend / blockchain client:
+- Operating system:
 
 ## Steps to Reproduce
 
