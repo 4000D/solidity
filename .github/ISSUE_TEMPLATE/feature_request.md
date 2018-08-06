@@ -10,8 +10,7 @@ about: Solidity language or infrastructure feature requests.
 - Support questions are better asked in one of the following locations:
 	- [Solidity chat](https://gitter.im/ethereum/solidity)
 	- [Stack Overflow](https://ethereum.stackexchange.com/)
-- Ensure the issue isn't already reported.
-- Should be reproducible with the latest ``solc`` version.
+- Ensure the issue isn't already reported (check `feature` and `language design` labels).
 
 *Delete the above section and the instructions in the sections below before submitting*
 
@@ -23,7 +22,7 @@ and reason about it.
 ## Motivation
 
 In this section you describe how you propose to address the problem you described earlier,
-including by giving one or more examplary source code(s) for demonstration.
+including by giving one or more exemplary source code snippets for demonstration.
 
 ## Specification
 

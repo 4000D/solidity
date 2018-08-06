@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Bug reports about the Solidity Compiler Infrastructure.
+about: Bug reports about the Solidity Compiler.
 ---
 
 ## Prerequisites
@@ -11,7 +11,7 @@ about: Bug reports about the Solidity Compiler Infrastructure.
 	- [Solidity chat](https://gitter.im/ethereum/solidity)
 	- [Stack Overflow](https://ethereum.stackexchange.com/)
 - Ensure the issue isn't already reported.
-- Should be reproducible with the latest ``solc`` version.
+- Should be reproducible with the latest ``solc`` version, however, this isn't a hard requirement.
 
 *Delete the above section and the instructions in the sections below before submitting*
 
@@ -23,13 +23,14 @@ Please shortly describe the bug you have found, and what you expect instead.
 
 - Compiler version
 - Framework (i.e. Truffle)
+- EVM execution environment / backend / blockchain client
 - IDE (i.e. Remix)
 - Operating system
 
 ## Steps to Reproduce
 
 Please provide a *minimal* source code example to trigger the bug you have found.
-If any command line flags are necessary for triggering the bug, you should also mention these.
+Please also mention any command line flags that are necessary for triggering the bug.
 Provide as much information as necessary to reproduce the bug.
 
 ```
